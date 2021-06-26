@@ -1,1 +1,1 @@
-# coursera_capstone_project
+# A practice repository
